@@ -8,3 +8,10 @@ Next challenges:
 
 A bit late, will put more idea here tmrw
 
+here is the main idea for this:
+1. create 1 method to find K node in list list
+2. find K + 1 node base on K
+3. Make K node 's next node as null, then from 1 to K is a list, then reverse it
+4. Now head is tail, then like it link to next subList 's head, due to it is recursive method, so it is done.
+
+
